@@ -1,11 +1,5 @@
 # Netflix_clone
-Absolutely! Based on the HTML code you provided for your **Netflix Clone** project, here’s a ready-to-use `README.md` file that you can include when uploading the project to GitHub:
 
----
-
-### 📄 README.md
-
- Netflix Clone (HTML & CSS)
 
 This is a front-end Netflix homepage clone created using HTML and  CSS only**, designed to showcase basic layout, styling, and responsiveness. It includes a navigation bar, movie sections, a hero section, and more.
 
@@ -62,9 +56,5 @@ netflix_clone/
 
 ---
 
-# License
 
-This project is open source and free to use for educational purposes.
-
-  *This is a front-end demo and not affiliated with or endorsed by Netflix.*
 
